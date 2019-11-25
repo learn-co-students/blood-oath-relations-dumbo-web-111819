@@ -18,6 +18,7 @@ eric = Follower.new("Eric","37","I love milk", kkk)
 kkk.recruit_follower(monsur)
 
 
+
 binding.pry
 
 puts "Mwahahaha!" # just in case pry is buggy and exits
